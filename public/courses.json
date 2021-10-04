@@ -1,0 +1,92 @@
+ [
+  {
+    "id": 1,
+    "name": "Competitive programming",
+    "img": "https://s3-ap-southeast-1.amazonaws.com/devskillimagestorage/profileimages/ff015ecc-9201-4e22-8cea-e45dee8652df_76ae3f76607a42deb9b65d1d51cc2f6d_W400xH0.png",
+    "details": "Solving a problem is meaningless if you can't convert it to a workable code in a contest that covers all the edge cases. Solving a problem, writing its code in an efficient language is a must for a problem solver.",
+    "price": 120,
+    "enrolled": 500,
+    "rating": 4.8,
+    "text": "Visit our courses"
+  },
+  {
+    "id": 2,
+    "name": "Linux System Administration",
+    "img": "https://s3-ap-southeast-1.amazonaws.com/devskillimagestorage/profileimages/e3797bd9-6ff4-4b40-a5c2-4320ed078e63_e06f070308d84c5f9dfcc293e82e9210_W400xH0.jpg",
+    "details": "Learn Linux online at your own pace. Start today and improve your skills.Use the in-demand Linux skills you learn in this course to get promoted or start a new career as a Linux professional.",
+    "price": 100,
+    "enrolled": 400,
+    "rating": 4.5,
+    "text": "Visit our courses"
+  },
+  {
+    "id": 3,
+    "name": "Cyber Security",
+    "img": "https://s3-ap-southeast-1.amazonaws.com/devskillimagestorage/profileimages/2d80216d-6fc7-45b0-a140-e0cbecb49c24_3903a5afa45748eeaf527437ecf166c4_W400xH0.jpg",
+    "details": "Cyber Security is a vital part of day to day Information Technology domain.This course is designed to mentor you with practical labs, industry knowledge & real-life experience.",
+    "price": 130,
+    "enrolled": 350,
+    "rating": 4.6,
+    "text": "Visit our courses"
+  },
+  {
+    "id": 4,
+    "name": "Docker Essentials",
+    "img": "https://s3-ap-southeast-1.amazonaws.com/devskillimagestorage/profileimages/1e2b0487-719a-4be7-86af-eae1c60d2fd8_c14f238295c547fdac570260fa1c6ea9_W400xH0.png",
+    "details": "Docker Essentials Course will help you to learn how to develop and deploy web applications with Docker technologies. Take your DevOps skills to the next level.",
+    "price": 150,
+    "enrolled": 200,
+    "rating": 4.5,
+    "text": "Visit our courses"
+  },
+  {
+    "id": 5,
+    "name": "Become a Python Developer",
+    "img": "https://s3-ap-southeast-1.amazonaws.com/devskillimagestorage/profileimages/d873fef7-9571-43f6-bc16-1f7453a6dd9a_0396698ce18545dd859335819a7dffb1_W400xH0.png",
+    "details": "Python is one of the most sought-after programming languages today. From web development to data science, machine learning, scraping or scripting; the appeal of Python is undisputed.",
+    "price": 110,
+    "enrolled": 600,
+    "rating": 4.7,
+    "text": "Visit our courses"
+  },
+  {
+    "id": 6,
+    "name": "Graphics Design",
+    "img": "https://s3-ap-southeast-1.amazonaws.com/devskillimagestorage/profileimages/8f8275b4-4940-47f5-bb52-143f879e5517_6e74a5b74e68432b9ec7486d38b97e7a_W400xH0.jpg",
+    "details": "This course has been designed with effective practical components that makes you a professional/ commercial Graphic designer.This course is highly structured, concrete, and substantial.",
+    "price": 125,
+    "enrolled": 250,
+    "rating": 4,
+    "text": "Visit our courses"
+  },
+  {
+    "id": 7,
+    "name": "Kubernetes Essentials",
+    "img": "https://s3-ap-southeast-1.amazonaws.com/devskillimagestorage/profileimages/0bac7e42-c3a1-4c68-b2b6-0831b00a8ce9_469cc7c346bb470aab10b499b04d78f7_W400xH0.jpg",
+    "details": "Now a days most well known buzz word in the software industry is Kubernetes . Kubernetes Essentials Course will help you to learn how to develop and deploy web applications, different kind of services with Kubernetes technologies.",
+    "price": 135,
+    "enrolled": 150,
+    "rating": 4.3,
+    "text": "Visit our courses"
+  },
+  {
+    "id": 8,
+    "name": "Android & IOS development",
+    "img": "https://s3-ap-southeast-1.amazonaws.com/devskillimagestorage/profileimages/ade886e7-c312-4dd9-b430-d8c8b029b693_eb296fabe2ad46f0ad2a8908db380ff1_W400xH0.jpg",
+    "details": "Do you ever want to be a mobile app developer? Wouldn't it be so cool if you could build apps that can run seamlessly on Android and iOS at the same time?  This course is a step by step and complete guide to become a mobile app developer!",
+    "price": 150,
+    "enrolled": 450,
+    "rating": 4.5,
+    "text": "Visit our courses"
+  },
+  {
+    "id": 9,
+    "name": "C# Fundamentals",
+    "img": "https://s3-ap-southeast-1.amazonaws.com/devskillimagestorage/profileimages/4de43e07-bb67-4747-8561-02e179a02bd9_656e8a441a4c4590bac830ae9cf4499c_W400xH0.jpg",
+    "details": "This course gives you everything you need to become a productive C# developer on any platform. Learn the basics of reading and writing C# code in your own applications.",
+    "price": 120,
+    "enrolled": 500,
+    "rating": 4.9,
+    "text": "Visit our courses"
+  }
+]

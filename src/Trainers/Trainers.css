@@ -1,0 +1,19 @@
+.page-container {
+  position: relative;
+  min-height: 100vh;
+  padding-bottom:50px;
+}
+
+.line3
+{
+  height:5px;
+  width:150px;
+  margin:auto;
+  color:white;
+  border-bottom: 2px solid white;
+
+}
+
+.custom-color{
+  background-color:#23B7A7;
+}

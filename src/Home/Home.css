@@ -1,0 +1,30 @@
+.page-container {
+  position: relative;
+  min-height: 100vh;
+  padding-bottom:60px;
+}
+
+.line4
+{
+  height:5px;
+  width:310px;
+  margin:auto;
+  border-bottom: 2px solid white;
+}
+
+.line5
+{
+  height:5px;
+  width:310px;
+  margin:auto;
+  border-bottom: 2px solid salmon;
+}
+
+.course-color
+{
+  color:#23B7A7;
+}
+
+.custom-color{
+  background-color:#23B7A7;
+}

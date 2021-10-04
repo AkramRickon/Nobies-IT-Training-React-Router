@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Shahriar Sajib",
+    "img": "https://s3-ap-southeast-1.amazonaws.com/devskillimagestorage/profileimages/d6e79a23-75f2-4611-a553-ad68d2b88f56_800637934936424e8d1b133016eac9fc_W400xH0.jpg",
+      "details":"Always eager to solve real world problems. Participated in many onsite programming contest. My cf handle: Introverted. Currently working as a Software Engineer at Samsung R&D Institute, Bangladesh.",
+    "designation": "Software Engineer"
+  },
+  {
+    "id": 2,
+    "name": "Maksud Alam",
+    "img": "https://s3-ap-southeast-1.amazonaws.com/devskillimagestorage/profileimages/7904ed89-35e7-4f57-b8c5-9ffa3e219616_801c0fad385a4dba94b4774dc3611753_W400xH0.jpg",
+      "details":"Data driven UX Evangelist. Have a hand in Design, Create, Promote and Scale Product/ Service as well as Brand across National and International.",
+    "designation": "UX and CX Specialist"
+  },
+  {
+    "id": 3,
+    "name": "Md Mahedi Hasan",
+    "img": "https://s3-ap-southeast-1.amazonaws.com/devskillimagestorage/profileimages/bfa5f415-5388-4a84-82de-1302e05f5ead_4aca2fb0b6554957b501b969c7fcb2d3_W400xH0.png",
+      "details":"I have been working as a mobile app developer for the last 2 years. My main stack is React Native. Currently pursuing my Masters in Computer Science and working as a mobile app developer in Malaysia.",
+    "designation": "System & Network Professional"
+  },
+  {
+    "id": 4,
+    "name": "Saad Bin Bashar",
+    "img": "https://s3-ap-southeast-1.amazonaws.com/devskillimagestorage/profileimages/79c35da8-88cd-4fdd-ac6d-1ef45f0bd705_403fac2b0b3046a3bd1e02e2c3755036_W400xH0.jpg",
+      "details":"As a System & Network professional, I have been playing the role of System Admin since 2009. Currently, I'm working as a Network Engineer (Executive Engineer), ICT Cell, University of Dhaka.",
+    "designation": "Mobile App Developer"
+  }
+]

@@ -1,0 +1,42 @@
+ [
+  {
+    "id": 1,
+    "name": "Competitive programming",
+    "img": "https://s3-ap-southeast-1.amazonaws.com/devskillimagestorage/profileimages/ff015ecc-9201-4e22-8cea-e45dee8652df_76ae3f76607a42deb9b65d1d51cc2f6d_W400xH0.png",
+    "details": "Solving a problem is meaningless if you can't convert it to a workable code in a contest that covers all the edge cases. Solving a problem, writing its code in an efficient language is a must for a problem solver.",
+    "price": 120,
+    "enrolled": 500,
+    "rating": 4.8,
+    "text": "Visit our courses"
+  },
+  {
+    "id": 2,
+    "name": "Linux System Administration",
+    "img": "https://s3-ap-southeast-1.amazonaws.com/devskillimagestorage/profileimages/e3797bd9-6ff4-4b40-a5c2-4320ed078e63_e06f070308d84c5f9dfcc293e82e9210_W400xH0.jpg",
+    "details": "Learn Linux online at your own pace. Start today and improve your skills.Use the in-demand Linux skills you learn in this course to get promoted or start a new career as a Linux professional.",
+    "price": 100,
+    "enrolled": 400,
+    "rating": 4.5,
+    "text": "Visit our courses"
+  },
+  {
+    "id": 3,
+    "name": "Cyber Security",
+    "img": "https://s3-ap-southeast-1.amazonaws.com/devskillimagestorage/profileimages/2d80216d-6fc7-45b0-a140-e0cbecb49c24_3903a5afa45748eeaf527437ecf166c4_W400xH0.jpg",
+    "details": "Cyber Security is a vital part of day to day Information Technology domain.This course is designed to mentor you with practical labs, industry knowledge & real-life experience.",
+    "price": 130,
+    "enrolled": 350,
+    "rating": 4.6,
+    "text": "Visit our courses"
+  },
+  {
+    "id": 4,
+    "name": "Docker Essentials",
+    "img": "https://s3-ap-southeast-1.amazonaws.com/devskillimagestorage/profileimages/1e2b0487-719a-4be7-86af-eae1c60d2fd8_c14f238295c547fdac570260fa1c6ea9_W400xH0.png",
+    "details": "Docker Essentials Course will help you to learn how to develop and deploy web applications with Docker technologies. Take your DevOps skills to the next level.",
+    "price": 155,
+    "enrolled": 200,
+    "rating": 4.5,
+    "text": "Visit our courses"
+  }
+]

@@ -1,0 +1,21 @@
+.page-container {
+    position: relative;
+    min-height: 100vh;
+  }
+.custom-color{
+    background-color:#23B7A7;
+}
+.align-text
+{
+  text-align:justify;
+}
+
+.line2
+{
+  height:5px;
+  width:120px;
+  margin:auto;
+  color:white;
+  border-bottom: 2px solid white;
+
+}
