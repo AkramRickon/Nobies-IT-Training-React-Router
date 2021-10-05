@@ -23,7 +23,7 @@ const Footer = () => {
 
                     <Col>
                         <div className="text-center text-white ">
-                            <h5>Follow us</h5>
+                            <h5>FOLLOW US</h5>
                             <div>
                                 <i className="fab fa-linkedin"></i>
                                 <i className="fab fa-youtube"></i>
@@ -34,7 +34,7 @@ const Footer = () => {
                     </Col>
 
                     <Col className="text-end text-white">
-                        <h5>Contact Us</h5>
+                        <h5>CONTACT US</h5>
                         <h6  className="phone-num-color ">+88 58050442-3</h6>
                         <h6 className="phone-num-color ">+8801944480902</h6>
                         <h6>9AM - 5PM (Fri, Sat off)</h6>
@@ -42,7 +42,7 @@ const Footer = () => {
                     </Col>
                 </Row>
             </Container>
-            <p className="text-center  mb-0 copyright-bg text-secondary py-1">©Copyright 2017-2021 | Nobies Training Academy</p>
+            <p className="text-center  mb-0 copyright-bg text-secondary py-1">©Copyright 2017-2021 | Nobies Academy</p>
         </div>
 
     );

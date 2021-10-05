@@ -1,4 +1,4 @@
-# Nobies Training Academy
+# Nobies Academy
 
 Project link [Nobies Academy](https://nobies-academy-rickon.netlify.app/).
 
