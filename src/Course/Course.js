@@ -15,16 +15,18 @@ const Course = (props) => {
             <CardGroup>
                 <Card className="shadow">
                     <Card.Img variant="top" src={img} />
-                    <Card.Body>
+                    <Card.Body className="pb-0">
                     <Card.Title><small>{name}</small></Card.Title>
-                    <Card.Text>
+                    <p>
                        <small>{details}</small>
-                    </Card.Text>
+                    </p>
                     </Card.Body>
-                    <Card.Footer>
+                    <Card.Footer className="border-0 pt-0 bg-white">
+                    <hr className="mt-0"></hr>
                     <div className="d-flex justify-content-between fw-bold"><span>{userIcon}{enrolled}</span> <span>{starIcon}{rating}</span> <span className="text-success">${price}</span></div>
                     <hr></hr>
                     <h6 className="text-success">Registration going on</h6>
+
                     </Card.Footer>
                 </Card>
             </CardGroup>

@@ -21,7 +21,7 @@ const Home = () => {
 
                 {/* top section text */}
                 <h3>Welcome to Nobies Training Academy</h3>
-                <h3>Hard Work Beats Talents</h3>
+                <h3>Hard Work Beats Talent</h3>
                 <div className="line4"></div>
                 </div>
                 {/* Image slider coponent */}
