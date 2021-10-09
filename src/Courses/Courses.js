@@ -23,7 +23,7 @@ const Courses = () => {
             </div>
         {/* Course component */}
         <Container>
-            <Row xs={1} md={4} className="g-4">
+            <Row xs={1} md={3} lg={4} className="g-4">
             {
                 courses.map(course=> <Course course={course} key={course.id}></Course> )
             }

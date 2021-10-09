@@ -28,7 +28,7 @@ const Trainers = () => {
 
             {/* Traier component */}
           <Container>
-          <Row xs={1} md={4} className="g-4">
+          <Row xs={1} md={3} lg={4} className="g-4">
               {
                   trainers.map(trainer=> <Trainer trainer={trainer} key={trainer.id}></Trainer>)
               }
